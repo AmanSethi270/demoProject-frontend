@@ -1,0 +1,17 @@
+.Dashboard {
+    font-family: sans-serif;
+    display: flex;
+    gap: 10px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-color: #f8f9fd;
+  }
+
+  .class {
+    font-family: sans-serif;
+    /* display: flex; */
+    gap: 10px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-color: #f8f9fd;
+  }

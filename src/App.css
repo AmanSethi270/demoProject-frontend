@@ -1,5 +1,13 @@
 .App {
-  text-align: center;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  height: 100vh;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: #f8f9fd;
 }
 
 .App-logo {
@@ -35,4 +43,28 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.home{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  font-size: xx-large;
+}
+
+.button-class{
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 20px;
+  background: #42b72a;
+  border: 1px solid #01d28e;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 15px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
 }

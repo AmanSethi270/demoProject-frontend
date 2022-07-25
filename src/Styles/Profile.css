@@ -1,0 +1,20 @@
+.profile{
+    font-family: sans-serif;
+    gap: 10px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-color: #f8f9fd;
+    text-align: center;
+    align-items: center;
+}
+
+.card{
+    
+    display: flex; 
+   align-items: center; 
+   justify-content: center;
+
+   font-size: larger;
+ 
+
+  }
